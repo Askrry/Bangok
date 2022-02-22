@@ -11,7 +11,7 @@
     "karma": "karma start karma.conf.js",
     "lint": "eslint \"./*-module/**/*.js\"",
     "lint:fix": "eslint --fix \"./*-module/**/*.js\"",
-    "build": "webpack --config webpack.config.js [my-framework] build --output public"
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
